@@ -1,0 +1,10 @@
+@import'nav.css';
+
+body{
+	font-size: 30px;
+	font:sans-serif;
+}
+h1{
+	font-size: 36px;
+	color:black;
+}

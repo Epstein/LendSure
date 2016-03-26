@@ -1,0 +1,32 @@
+@import'config.css';
+
+.belly{
+	position: relative;
+}
+
+.two{
+	height: auto;
+	background-color: yellow;
+	/*text-align: center;*/
+}
+.three{
+	height: 400px;
+	background-color: green;
+}
+
+.box{
+	float: left;
+
+}
+/*#box1 p{
+	display: clear;
+}*/
+
+
+
+
+
+
+/*#slides {
+      display:none;
+}*/
